@@ -1,7 +1,2 @@
 web: vendor/bin/heroku-php-apache2 public/
 
-APP_NAME=Laravel
-APP_ENV=production
-APP_KEY=base64:2oT5IzlnDJkq0x3QSXH+1cpQbVRV35OAw/83rS2+rz0=
-APP_DEBUG=true
-APP_URL=https://hachev-reportingtasks.herokuapp.com/
